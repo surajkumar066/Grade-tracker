@@ -50,4 +50,4 @@ npm run dev
 ```
 
 ## Live Link
-[deploy karne ke baad yahan link daalna]
+https://grade-trackers.netlify.app/
